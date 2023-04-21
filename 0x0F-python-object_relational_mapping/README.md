@@ -1,0 +1,1 @@
+0x0F Python Object-Relational Mapping This repository contains tasks for the ALX software engineering curriculum, specifically the Python Object-Relational Mapping (ORM) project. The ORM project aims to introduce students to the concept of object-relational mapping and how to interact with relational databases in Python.
